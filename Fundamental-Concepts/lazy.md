@@ -30,11 +30,11 @@ These mechanisms provide verifiable proof of who did what and when.
 
 ## AAA – Authentication, Authorization, Accounting
 
-*Authentication*: Verifies who you are (e.g., login credentials).
+**Authentication**: Verifies who you are (e.g., login credentials).
 
-*Authorization*: Determines what resources you may access once authenticated.
+**Authorization**: Determines what resources you may access once authenticated.
 
-*Accounting*: Records what you did (system logs), providing an audit trail.
+**Accounting**: Records what you did (system logs), providing an audit trail.
 
 Tip: Accounting logs actions; non‑repudiation adds cryptographic protection so those logs can’t be denied or tampered with.
 
