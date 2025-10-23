@@ -17,6 +17,10 @@ In the **lazy notes**, you’ll find:
 
 *Tip:* Read the **chapter notes first**, but **study the lazy notes** — they encourage understanding instead of rote memorization, which helps you learn more effectively.
 
+### Revised Chapter List (in order)
+1. [Security Controls](Security-Controls)
+2. [Fundamental Concepts](Fundamental-Concepts)
+
 ### Contributions
 
 We welcome contributions!
