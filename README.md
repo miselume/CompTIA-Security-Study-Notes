@@ -20,6 +20,7 @@ In the **lazy notes**, you’ll find:
 ### Revised Chapter List (in order)
 1. [Security Controls](Security-Controls)
 2. [Fundamental Concepts](Fundamental-Concepts)
+3. Change Management **(work in progress)**
 
 ### Contributions
 
