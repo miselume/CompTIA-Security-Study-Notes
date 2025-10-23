@@ -15,15 +15,15 @@ Only the right people should ever peek at your data.
 
 Your data must stay exactly the way it was meant to be, unless an authorized change is made.
 
-- **How we protect it:** hashing (think SHA‑256), digital signatures, checksums, version‑control systems, regular backups.  
-- **What goes wrong if it’s broken:** malware that silently rewrites files, man‑in‑the‑middle attacks that alter traffic, corrupted databases.
+- **How to achieve this:** hashing (think SHA‑256), digital signatures, checksums, version‑control systems, regular backups.  
+- **Consequences:** malware that silently rewrites files, man‑in‑the‑middle attacks that alter traffic, corrupted databases.
 
 ### Availability – “Can I get it when I need it?”
 
 Even the most secret, perfectly intact data is useless if you can’t reach it.
 
-- **How we protect it:** redundancy (RAID, server clusters), frequent backups, disaster‑recovery plans, DDoS mitigation, timely patching.  
-- **What goes wrong if it’s broken:** DDoS floods, hardware failures, ransomware that locks you out, power cuts.
+- **Protective measures:** redundancy (RAID, server clusters), frequent backups, disaster‑recovery plans, DDoS mitigation, timely patching.  
+- **Problems that may occur:** DDoS floods, hardware failures, ransomware that locks you out, power cuts.
 
 
 ## 2. Non‑Repudiation – “No One Can Walk Away Saying ‘I Didn’t Do That’”
