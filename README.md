@@ -1,20 +1,26 @@
 # CompTIA Security+ Study Notes
 
-This repository contains markdown study notes for individuals who prefer text-based study materials. It is still a work in progress and will be updated over time.
+This repository contains **markdown-based study notes** for individuals who prefer **text-based learning materials**.
+It’s still a **work in progress** and will be updated over time.
 
 ### Overview of Markdown Notes
 
-In the markdown notes, you can find:
+In the **chapter notes**, you’ll find:
 
-- **Practical Examples**
-- **Short Explanations**
-- **Long Explanations**
+* **Practical examples**
+* **Detailed explanations**
 
-Short explanations are designed for quick reviews, while long explanations cater to those learning the material for the first time or wishing to dive deeper. Most practical examples stem from real-world work problems, and all markdown notes are supported by diagrams where necessary.
+In the **lazy notes**, you’ll find:
+
+* **Quick overviews**
+* **Most important takeaways**
+
+*Tip:* Read the **chapter notes first**, but **study the lazy notes** — they encourage understanding instead of rote memorization, which helps you learn more effectively.
 
 ### Contributions
 
-We welcome contributions! If you wish to contribute, please email me at:  
-- kaishira@protonmail.com
+We welcome contributions!
+If you’d like to contribute, please email:
+**[kaishira@protonmail.com](mailto:kaishira@protonmail.com)**
 
-All notes are licensed under the MIT License, so you can do whatever you want, of course under the MIT License rules.
+All notes are licensed under the **MIT License**, so you’re free to use and modify them — as long as you follow the license terms.
